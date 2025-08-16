@@ -1,6 +1,6 @@
 # 🚗 Used Car Price Prediction
 
-This project predicts the **price of used cars** based on various features such as year, mileage, fuel type, transmission, and other specifications.  
+This project predicts the **price of used cars** based on various features such as Vehicle age, mileage, fuel type, transmission, and other specifications.  
 It uses machine learning techniques to analyze data and build a predictive model.
 
 ---
